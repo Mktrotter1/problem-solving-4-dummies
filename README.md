@@ -76,3 +76,7 @@ The classic frameworks aren't separate things to learn. They're tools that help 
 | After-Action Review (AAR) | Step 10 |
 
 *"Helps With" maps each framework to the steps where it's most useful — a conceptual guide, not a promise that every framework has its own write-up. Most have a detailed section on the named step page; a few high-level ones (e.g. Polya's Four Steps and the IDEAL Model) describe the whole sequence rather than a single step.*
+
+---
+
+*This cookbook is the source for the [`problem-solving` skill](../claude-skills/problem-solving/SKILL.md) — the condensed, always-on version Claude loads for any non-trivial task. The skill symlinks back to this repo at `problem-solving/cookbook/`, so editing here keeps both in sync.*
