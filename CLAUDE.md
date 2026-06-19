@@ -5,10 +5,13 @@ A cookbook/reference repo for problem-solving and critical thinking fundamentals
 ## Structure
 
 10 sequential steps, one directory each (`01-notice/` through `10-reflect/`). Each step has a `README.md` explaining:
+
 - What the step is and why it matters
 - How to do it practically
 - Which classic frameworks/techniques help with this step
 - Common mistakes
+
+Each `README.md` follows a consistent section order: **What This Step Is → How to Do It → Techniques That Help Here → Common Mistakes → The Key Question**. Deliberate exceptions for machine consumers parsing by heading: Step 01 omits "Techniques That Help Here" (noticing has no techniques to list) and adds a "When You Notice Several" triage section; Step 09 replaces "Techniques That Help Here" with "What Happens Next" (the branch-routing back to Steps 4/6/8).
 
 ## Principles
 

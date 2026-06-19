@@ -1,0 +1,10 @@
+{
+  // Problem Solving 4 Dummies — markdownlint config.
+  // Cookbook prose, not API docs: keep structural rules, relax stylistic ones.
+  "default": true,
+  "MD013": false, // line length — prose is intentionally long-form
+  "MD040": false, // fenced code language — ASCII diagrams (e.g. fishbone) have no language
+  "MD060": false, // table pipe spacing — cosmetic; GFM renders fine either way
+  "MD036": false, // bold "Key Question" callouts are an intentional design element, not headings
+  "MD024": { "siblings_only": true } // same heading text allowed under different parents
+}

@@ -4,6 +4,8 @@
 
 You've noticed something is off. Now resist every urge to fix it. First, look.
 
+*(One exception: if the situation is actively on fire — a true crisis — stabilize first to stop the immediate damage, then come back here to observe. Acting before understanding is only justified when inaction is the bigger risk. See "Chaotic" under [Step 4](../04-understand/).)*
+
 ## What This Step Is
 
 Observation is gathering raw information without judgment, interpretation, or solution-seeking. You're building an accurate picture of reality before you do anything about it.
@@ -25,9 +27,11 @@ This is where most people fail. The instinct to jump to solutions is overwhelmin
 ## Techniques That Help Here
 
 ### The Scientific Method (Observation Phase)
+
 Before hypothesizing, scientists observe and record. Systematically. Without agenda. Do the same.
 
 ### Active Listening
+
 If the problem involves people, listen to understand — not to respond. Repeat back what you heard. Ask clarifying questions. "Tell me more about..." is your best tool.
 
 ## Common Mistakes

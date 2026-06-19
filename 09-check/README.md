@@ -12,13 +12,13 @@ This is where your definition of done pays off. Without it, this step degenerate
 
 ## How to Do It
 
-**Go back to step 5.** Pull up your acceptance criteria. Check each one. Did you meet it?
+**Go back to [Step 5: Define Done](../05-define-done/).** Pull up your acceptance criteria. Check each one. Did you meet it?
 
 **Measure, don't assume.** If your definition of done includes measurable criteria (and it should), measure them. "Feels faster" is not "loads in under 2 seconds."
 
 **Test the edges.** Does it work in the normal case? What about edge cases? What about the specific conditions that triggered the original problem?
 
-**Verify the root cause is addressed.** Go back to step 4. The root cause you identified — is it actually gone? Or did you just mask the symptom?
+**Verify the root cause is addressed.** Go back to [Step 4: Understand](../04-understand/). The root cause you identified — is it actually gone? Or did you just mask the symptom?
 
 **Check for side effects.** Did your solution create new problems? Sometimes the cure is worse than the disease. Look.
 
@@ -27,11 +27,14 @@ This is where your definition of done pays off. Without it, this step degenerate
 **If it worked:** Move to [Step 10: Reflect](../10-reflect/).
 
 **If it partially worked:** You have new information. Go back to whichever step is appropriate:
-- Back to step 4 if the root cause was wrong
-- Back to step 6 if the approach was wrong but the understanding was right
-- Back to step 8 if the approach was right but the execution needs adjustment
 
-**If it didn't work at all:** Don't panic. This is data. Go back to step 4 with your new information. You now know something that *doesn't* work, which narrows the search.
+- Back to [Step 4: Understand](../04-understand/) if the root cause was wrong
+- Back to [Step 6: Generate Options](../06-generate-options/) if the approach was wrong but the understanding was right
+- Back to [Step 8: Act](../08-act/) if the approach was right but the execution needs adjustment
+
+**If it didn't work at all:** Don't panic. This is data. Go back to [Step 4: Understand](../04-understand/) with your new information. You now know something that *doesn't* work, which narrows the search.
+
+**If you keep ending up back here:** repeated failed cycles that surface no new information mean you're spinning, not solving. See [When to Stop](../README.md#when-to-stop) — some problems should be escalated, descoped, or deliberately set down.
 
 ## Common Mistakes
 

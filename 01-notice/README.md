@@ -26,6 +26,17 @@ This is the most underrated step because it happens *before* conscious problem-s
 - **Dismissing intuition.** That nagging feeling that something is off? It's usually picking up on real signals your conscious mind hasn't processed yet.
 - **Waiting for failure.** You don't need something to break to notice a problem. Inefficiency, confusion, and unnecessary complexity are all problems.
 
+## When You Notice Several
+
+Noticing usually surfaces more than one problem at once. You can only define and solve one at a time, so triage before you dive in. Rank by:
+
+- **Impact** — how much damage if you leave it alone?
+- **Frequency** — how often does it bite?
+- **Cost of delay** — does it get worse, or more expensive to fix, the longer you wait?
+- **Dependencies** — does solving one unblock the others? Start there.
+
+Pick one to carry into Step 2. The rest go on a list — not forgotten, just queued.
+
 ## The Key Question
 
 **"Is something wrong, missing, or harder than it needs to be?"**

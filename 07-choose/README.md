@@ -14,7 +14,7 @@ The goal is not to find the perfect option. It's to find the best available opti
 
 **Evaluate against "done."** Which option most directly achieves the end state you defined? That's your starting point.
 
-**Check against constraints.** Which options violate your non-negotiables (time, money, risk, safety)?  Eliminate those.
+**Check against constraints.** Which options violate your non-negotiables (time, money, risk, safety)? Eliminate those.
 
 **Prefer the simplest option that solves the problem.** Not the most elegant. Not the most comprehensive. The simplest one that meets your definition of done.
 
@@ -22,12 +22,16 @@ The goal is not to find the perfect option. It's to find the best available opti
 
 **Decide and commit.** Analysis paralysis is real. At some point, you have enough information. Pick one and go. A good plan executed now beats a perfect plan executed never.
 
+**For complex problems, pick a probe, not a fix.** If Step 4 left you without a confident root cause, you're not choosing a final solution yet — you're choosing the smallest safe experiment that will teach you the most. Favor options that are cheap, fast, and reversible, and treat Steps 8–9 as a learning loop: act, observe what happens, and feed the result back to [Step 4](../04-understand/).
+
 ## Techniques That Help Here
 
 ### Occam's Razor
+
 Among solutions that achieve the same result, prefer the one with the fewest moving parts, assumptions, and dependencies. Complexity is cost.
 
 ### Weighted Decision Matrix
+
 If the decision is genuinely complex, score each option against your criteria:
 
 | Criteria | Weight | Option A | Option B | Option C |
@@ -40,6 +44,7 @@ If the decision is genuinely complex, score each option against your criteria:
 Don't worship the numbers — they're a tool for making your reasoning explicit, not a substitute for judgment.
 
 ### Pre-Mortem
+
 Before committing, imagine it's six months from now and this option has failed spectacularly. What went wrong? If you can't think of plausible failure modes, you're probably not being honest. If you can, do they change your choice?
 
 ## Common Mistakes
@@ -51,6 +56,6 @@ Before committing, imagine it's six months from now and this option has failed s
 
 ## The Key Question
 
-**"Which option most directly solves the root cause, meets my definition of done, and respects my constraints?"**
+**"Which option most directly addresses the root cause — or, if the cause isn't knowable yet, is the safest probe to learn it — while meeting my definition of done and respecting my constraints?"**
 
 Pick it. Move to [Step 8: Act](../08-act/).

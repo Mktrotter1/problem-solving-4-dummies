@@ -15,6 +15,7 @@ This is where you turn a pile of observations into a single, precise statement: 
 **Write a problem statement.** One or two sentences. If you can't write it down clearly, you don't understand it yet.
 
 A good problem statement has:
+
 - **What** is wrong (not why — that's step 4)
 - **Where** it occurs (scope/boundary)
 - **When** it occurs (conditions/triggers)
@@ -29,12 +30,15 @@ A good problem statement has:
 ## Techniques That Help Here
 
 ### The Feynman Technique
+
 Try to explain the problem in plain language, as if to someone with no context. Where your explanation gets vague or hand-wavy — that's where your understanding is weak. Those gaps *are* the problem you haven't fully defined yet.
 
 ### Rubber Duck Debugging
+
 Same principle: explain the problem out loud, step by step. The act of articulation forces precision. You'll often hear yourself say something that reveals the real issue.
 
 ### "How Might We..." (from Design Thinking)
+
 Reframe the problem as a question: "How might we [desired outcome] without [constraint]?" This forces you to be specific about both the goal and the boundaries.
 
 ## Common Mistakes

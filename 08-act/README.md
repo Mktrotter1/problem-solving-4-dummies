@@ -21,12 +21,15 @@ Acting means carrying out your chosen solution. The emphasis here is on doing it
 ## Techniques That Help Here
 
 ### OODA Loop (Tight Execution Cycle)
+
 During execution, run rapid observe-orient-decide-act cycles. Observe what's happening as you execute. Orient — does this match expectations? Decide — continue, adjust, or stop? Act on that decision. Repeat.
 
 The faster you cycle through OODA during execution, the faster you self-correct.
 
 ### PDCA / Deming Cycle (for Iterative Actions)
+
 If your solution is iterative:
+
 1. **Plan** the next small step
 2. **Do** it
 3. **Check** the result
@@ -34,6 +37,7 @@ If your solution is iterative:
 5. Repeat
 
 ### Timeboxing
+
 Set a time limit for execution. "I'll try this approach for 2 hours. If it's not working by then, I'll reassess." This prevents sunk-cost spirals.
 
 ## Common Mistakes

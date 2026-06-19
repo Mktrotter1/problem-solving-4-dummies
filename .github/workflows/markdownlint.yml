@@ -1,0 +1,25 @@
+name: markdownlint
+
+# This repo is the source for the `problem-solving` Claude skill, so the Markdown
+# must stay clean and consistently structured for both humans and machine readers.
+# Config lives in .markdownlint.jsonc at the repo root (auto-discovered by cli2).
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  markdownlint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Lint Markdown
+        # Pinned to the version validated locally so a future linter release
+        # can't silently fail CI. Run `npx markdownlint-cli2 --fix "**/*.md"` locally.
+        run: npx --yes markdownlint-cli2@0.22.1 "**/*.md"

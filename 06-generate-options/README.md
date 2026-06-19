@@ -17,6 +17,7 @@ The goal is divergence — spread wide before you narrow down. The first idea th
 **Separate generation from evaluation.** Don't judge ideas while you're creating them. That kills creativity. Generate first, evaluate in step 7.
 
 **Vary the approaches.** If all your options are variations on the same idea, you haven't really generated options. Push for fundamentally different approaches:
+
 - What's the quick fix?
 - What's the thorough fix?
 - What's the approach that eliminates the problem entirely?
@@ -28,9 +29,11 @@ The goal is divergence — spread wide before you narrow down. The first idea th
 ## Techniques That Help Here
 
 ### Inversion
+
 "What would make this problem *worse*?" List those things. Now invert each one into a potential solution. This reliably produces options your forward-thinking brain misses.
 
 ### Six Thinking Hats (de Bono)
+
 Force yourself through six perspectives on each option idea:
 
 | Hat | Ask |
@@ -43,13 +46,17 @@ Force yourself through six perspectives on each option idea:
 | **Blue** | Am I thinking about this the right way? |
 
 ### TRIZ (for Inventive Problems)
+
 If you're facing a contradiction ("I need X but X prevents Y"), TRIZ offers 40 inventive principles derived from analyzing 200,000+ patents. The core insight: most "novel" problems have been solved before in a different field. The solution often involves resolving the contradiction rather than compromising.
 
 ### Analogical Reasoning
+
 "What does this remind me of?" Map solutions from other domains. The problem of distributing load across servers was solved by looking at how telephone exchanges route calls. Look sideways.
 
 ### Lateral Thinking (de Bono)
+
 Deliberately approach from an unexpected angle. Techniques:
+
 - **Random entry:** pick a random word and force connections to your problem
 - **Provocation:** make a deliberately absurd statement and work backward to something useful
 - **Challenge:** question *why* things are done the current way — not to criticize, but to find hidden alternatives

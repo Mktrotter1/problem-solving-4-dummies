@@ -20,16 +20,20 @@ This step gets skipped more than any other. And when it's skipped, you get scope
 
 **Identify constraints.** What are you not willing to sacrifice? Time, money, quality, safety, simplicity? Name them now, before solutions start competing for your attention.
 
-**Write acceptance criteria.** Literally write: "I will consider this solved when ___." Fill in the blank with observable, measurable conditions.
+**Write acceptance criteria** — the concrete, checkable conditions that together make up your definition of done. Literally write: "I will consider this solved when ___." Fill in the blank with observable, measurable conditions.
+
+**If you're running an experiment** — a complex problem with no clear root cause (see [Step 4](../04-understand/)) — define done as what you expect to *learn*, not what you expect to fix. "We'll know whether the cache is the bottleneck" is a valid done for a probe.
 
 ## Techniques That Help Here
 
 ### Inversion (Defining the Anti-Goal)
+
 Instead of (or in addition to) defining success, define failure. "What would definitely mean this is NOT solved?" This creates a floor — a minimum bar that any solution must clear.
 
 Charlie Munger: *"Tell me where I'm going to die, and I'll never go there."*
 
 ### Working Backward
+
 Start from the solved state and trace backward. "If the problem were solved, what would be true? And for that to be true, what else would need to be true?" This reveals hidden requirements and dependencies.
 
 ## Common Mistakes

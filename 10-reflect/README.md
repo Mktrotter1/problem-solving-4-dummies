@@ -27,6 +27,7 @@ This is Polya's step 4. It's the step that separates people who solve the same k
 ## Techniques That Help Here
 
 ### Bloom's Taxonomy (Self-Assessment)
+
 Check which cognitive level you operated at:
 
 | Level | Question |
@@ -41,7 +42,9 @@ Check which cognitive level you operated at:
 The higher you can go, the more transferable your learning.
 
 ### After-Action Review (AAR)
+
 Four questions, in order:
+
 1. What was supposed to happen?
 2. What actually happened?
 3. Why was there a difference?

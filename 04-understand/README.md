@@ -21,6 +21,7 @@ Understanding means finding the root cause — the thing that, if you changed it
 ## Techniques That Help Here
 
 ### The 5 Whys
+
 Ask "Why?" iteratively, typically five times, to drill from symptom to root cause.
 
 > "The server went down." Why?
@@ -32,11 +33,13 @@ Ask "Why?" iteratively, typically five times, to drill from symptom to root caus
 Rules: follow one causal chain at a time. If you branch, pick the most likely path and trace it fully before trying others. Stop when "why?" no longer produces a meaningful, actionable answer.
 
 ### First Principles Thinking
+
 Strip away everything you've been told about the problem and ask: what do I know to be *fundamentally true*? Build your understanding up from only those truths.
 
 This is especially powerful when everyone "knows" why something is the way it is, but nobody has actually verified it. Convention and root cause are not the same thing.
 
 ### Fishbone Diagram (Ishikawa)
+
 For complex problems with multiple possible causes, map them by category:
 
 ```
@@ -51,6 +54,7 @@ Management ──┘
 Useful when the cause isn't obvious and you need to systematically survey the landscape.
 
 ### Cynefin Framework (Problem Classification)
+
 Before going deep on root cause analysis, check what *kind* of problem you're dealing with:
 
 - **Clear:** Cause is obvious. Just follow best practice.
@@ -72,4 +76,4 @@ This matters because using "complicated" tools (deep analysis) on a "complex" pr
 **"If I changed [this cause], would the problem go away?"**
 
 If you can answer that with confidence, move to [Step 5: Define Done](../05-define-done/).
-If not, keep digging — or consider that you're dealing with a complex/chaotic problem that needs experimentation, not analysis.
+If not, keep digging — or consider that you're dealing with a complex/chaotic problem that needs experimentation, not analysis. In that case you won't have a confident root cause to aim at, and that's fine: your path through Steps 6–9 becomes a *probe → sense → respond* loop — pick a small, safe action, run it, and let the result sharpen your understanding.
